@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "126648573361",
+    "project_id": "auth-news-43598",
+    "storage_bucket": "auth-news-43598.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126648573361:android:9863c43d99310162223190",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq6eJ4l9M1aZBuWX-gEOduQXOukQ60YpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
